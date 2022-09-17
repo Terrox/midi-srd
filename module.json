@@ -3,7 +3,7 @@
   "title": "Midi SRD",
   "description": "DnD 5e SRD items, features and spells configured for Dynamic Active Effects and Midi QoL",
   "author": "Kandashi (terrox patched)",
-  "version": "0.2.01",
+  "version": "0.2.03",
   "systems": [
     "dnd5e"
   ],
