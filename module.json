@@ -2,8 +2,8 @@
   "name": "midi-srd",
   "title": "Midi SRD",
   "description": "DnD 5e SRD items, features and spells configured for Dynamic Active Effects and Midi QoL",
-  "author": "Kandashi",
-  "version": "0.2.00",
+  "author": "Kandashi (terrox patched)",
+  "version": "0.2.01",
   "systems": [
     "dnd5e"
   ],
@@ -68,5 +68,5 @@
   ],
   "url": "This is auto replaced",
   "manifest": "https://raw.githubusercontent.com/kandashi/midi-srd/master/module.json",
-  "download": "https://github.com/kandashi/midi-srd/archive/master.zip"
+  "download": "https://github.com/Terrox/midi-srd/archive/master.zip"
 }
